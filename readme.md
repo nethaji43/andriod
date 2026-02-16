@@ -2,83 +2,39 @@
 
 This file tracks my daily Android learning progress.
 
+📅 Day 3 – EditText + Forms
+
+✔ EditText types
+✔ Input validation basics
+✔ Hints, maxLength
+
+📝 Practice:
+👉 Login Form UI
+
+---
+
 📅 Day 2 – TextView + Button
-✅ TextView
 
-text
+✔ TextView attributes
+✔ Button styles
+✔ onClick (XML + Kotlin basic)
 
-textSize
+📝 Practice:
+👉 Simple Welcome Screen
 
-textColor
+---
 
-textStyle
+📅 Day 1 – Setup + Intro
 
-gravity
+✔ Install Android Studio
+✔ Create First Project (Empty Activity, XML)
+✔ Understand:
 
-layout_width
-
-layout_height
-
-✅ Button
-
-Normal button
-
-Background color
-
-Text color
-
-Padding & margin
-
-Rounded button using drawable (basic idea)
-
-✅ onClick Event
-
-XML:
-
-android:onClick="methodName"
-
-Kotlin (Basic):
-
-setOnClickListener { }
-
-🛠️ Practice – Simple Welcome Screen
-
-Added TextView → Welcome message
-
-Added Button → Continue / Next
-
-Click action → Show message (Toast or text change)
-
-📅 Day 1 – Setup + Introduction
-✅ Setup
-
-Installed Android Studio
-
-Created first project (Empty Activity – XML)
-
-✅ Project Structure
-
-app
-
-java / kotlin
-
-res
-
-AndroidManifest.xml
-
-✅ Layout
+Project Structure
 
 res/layout
 
 activity_main.xml
 
-🛠️ Practice
-
-Changed TextView text
-
-Changed text color
-
-Changed background
-
-Modified text sizeS
-
+📝 Practice:
+👉 Change text, color, background
